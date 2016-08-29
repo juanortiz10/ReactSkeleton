@@ -4,7 +4,7 @@ This is a simple project that is used to initialize my own react.js projects. It
 
 You can use it, just clone this repository
 ```
-https://github.com/juanortiz10/ReactSkeleton.git
+git clone https://github.com/juanortiz10/ReactSkeleton.git
 ```
 
 Then you should initialize npm to download all required dependencies:
