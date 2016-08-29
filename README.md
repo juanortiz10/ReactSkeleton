@@ -10,6 +10,7 @@ git clone https://github.com/juanortiz10/ReactSkeleton.git
 Then you should initialize npm to download all required dependencies:
 ```
 npm init
+npm install
 ```
 
 
